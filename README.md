@@ -169,8 +169,16 @@
 
 ```
 
+## 资金明细
 
-
+```
+/api/userController/getSystemCreditAssetsList
+```
+新增筛选参数
+```
+operateType
+//    0收益,1支出,不传_全部
+```
 
 
 
