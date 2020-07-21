@@ -184,7 +184,7 @@ operateType
 ```
 /api/userController/getPropertyById
 ```
-城积分字段
+新增 商城积分字段
 ```
 shopPoint
 ```
