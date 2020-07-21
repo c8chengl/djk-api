@@ -5,7 +5,7 @@
 ## 众惠金明细
 
 ```
-http://djk.i5138.cn/api/userFamily/currencyLog
+/api/userFamily/currencyLog
 ```
 
 ```json
@@ -78,7 +78,7 @@ http://djk.i5138.cn/api/userFamily/currencyLog
 ## 附近商家
 
 ```
-http://djk.i5138.cn/api/NearbyC/getListByType
+/api/NearbyC/getListByType
 ```
 
 - 返回新增距离商家字段
@@ -93,7 +93,7 @@ http://djk.i5138.cn/api/NearbyC/getListByType
 ## 养老级别
 
 ```
-http://djk.i5138.cn/api/memberController/getMemberGrade
+/api/memberController/getMemberGrade
 ```
 
 ```json
@@ -147,25 +147,25 @@ http://djk.i5138.cn/api/memberController/getMemberGrade
 
 ```
 // 亲情号使用攻略
-http://djk.i5138.cn/api/userFamily/one/1
+/api/userFamily/one/1
 
 // 众惠金页面兑换规则
-http://djk.i5138.cn/api/userFamily/one/2
+/api/userFamily/one/2
 
 // 华兴众惠商家入驻服务协议
-http://djk.i5138.cn/api/userFamily/one/3
+/api/userFamily/one/3
 
 // 提现页面温馨提示
-http://djk.i5138.cn/api/userFamily/one/4
+/api/userFamily/one/4
 
 // 收益 右上角 帮助
-http://djk.i5138.cn/api/userFamily/one/5
+/api/userFamily/one/5
 
 // 华兴众惠用户注册服务协议
-http://djk.i5138.cn/api/userFamily/one/7
+/api/userFamily/one/7
 
 // 众惠金全面升级为亲情号 - 钱包页面头部
-http://djk.i5138.cn/api/userFamily/one/8
+/api/userFamily/one/8
 
 ```
 
