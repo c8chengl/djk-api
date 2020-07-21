@@ -180,5 +180,12 @@ operateType
 //    0收益,1支出,不传_全部
 ```
 
-
+## 商城积分字段
+```
+/api/userController/getPropertyById
+```
+城积分字段
+```
+shopPoint
+```
 
